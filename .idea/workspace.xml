@@ -1,0 +1,2124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/Ali/Ali1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/Ali/Ali2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/Ali/PrintRunnable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/duxiaoman/Duxiaoman1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/duxiaoman/Duxiaoman2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/duxiaoman/Duxiaoman3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong1$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo1/Pinduoduo1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo1/Pinduoduo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo1/Pinduoduo3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo1/Pinduoduo4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/tencent/Tencent1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/tencent/Tencent2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/tencent/Tencent3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi20.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/xiecheng/Xiecheng1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/xiecheng/Xiecheng2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/xiecheng/Xiecheng3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/xiecheng/Xiecheng4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/yuewen/Yuewen1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/yuewen/Yuewen2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/yuewen/Yuewen3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/MM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/cutline/Cutline1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/cutline/Cutline2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/explorer/Explorer1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/explorer/OneTwoZero.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/OneEightEight.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/OneTwoOne.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/OneTwoThree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/OneTwoTwo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/SevenOneFour.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/ThreeZeroNine.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/meituan/MeiTuan1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/meituan/MeiTuan2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/Mihayou1$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/Mihayou1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/Mihayou2$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/Mihayou2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/TT.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/leetcode/Leetcode1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/swordoffer/Offer1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2016/tencent/Tencent1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2016/xiaomi/Xiaomi1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi2$Customer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi2arr$Customer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi2arr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/jingdong/Jingdong1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/jingdong/Jingdong2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/jingdong/Jingdong3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/jingdong/Jingdong4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/meituan/MeiTuan1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/meituan/MeiTuan2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/meituan/MeiTuan3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/meituan/MeiTuan4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna2$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/souhu/Souhu1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/souhu/Souhu2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/souhu/Souhu3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/tencent/Tencent1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/tencent/Tencent2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/tencent/Tencent3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/tencent/Tencent4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Compara.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/IntegerMax.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/MaxValue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan2$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/threesixzero/ThreeSixZero.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao2$TrieTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wacai/Wacai1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wacai/Wacai2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangy17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi21.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi22.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi23.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi24.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi25.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi26.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi27.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi28.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyiyoudao/Wangyiyoudao1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyiyoudao/Wangyiyoudao2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/xiaomi/Xiaomi1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/xiaomi/Xiaomi2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/xiaomi/Xiaomi3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/zhubajie/Zhubajie$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/zhubajie/Zhubajie.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/pinduoduo/PinDuoDuo1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/pinduoduo/PinDuoDuo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/pinduoduo/PinDuoDuo3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/pinduoduo/PinDuoDuo4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/tencent/Tencent1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/tencent/Tencent2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/tencent/Tencent3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/paixu/Quick.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/testtest/Example.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/testtest/TesMax_VALUE.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/testtest/TestPriority.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/testtest/testHashmap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/zijietiaodongmianshi/Zijietiaozong.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/Ali/Ali1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/Ali/Ali2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/tencent/Tencent1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/tencent/Tencent2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/tencent/Tencent3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi20.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/MM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cutline/Cutline1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cutline/Cutline2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/explorer/OneTwoZero.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneEightEight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoThree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/SevenOneFour.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/ThreeZeroNine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/meituan/MeiTuan1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/meituan/MeiTuan2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mihayou/Mihayou1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mihayou/Mihayou2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mihayou/TT.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/leetcode/Leetcode1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2016/tencent/Tencent1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2016/xiaomi/Xiaomi1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi2arr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/jingdong/Jingdong1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/jingdong/Jingdong2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/jingdong/Jingdong3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/jingdong/Jingdong4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/meituan/MeiTuan1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/meituan/MeiTuan2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/meituan/MeiTuan3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/meituan/MeiTuan4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/quna/Quna1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/quna/Quna2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/quna/Quna3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/quna/Quna4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/souhu/Souhu1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/souhu/Souhu2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/souhu/Souhu3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/tencent/Tencent1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/tencent/Tencent2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/tencent/Tencent3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/tencent/Tencent4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Compara.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/IntegerMax.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/MaxValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Scan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Scan2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Scan3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/threesixzero/ThreeSixZero.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/toutiao/Toutiao1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/toutiao/Toutiao2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/toutiao/Toutiao3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wacai/Wacai1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wacai/Wacai2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangy17.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi12.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi13.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi14.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi15.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi16.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi17.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi18.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi21.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi22.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi23.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi24.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi25.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi26.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi27.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi28.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyiyoudao/Wangyiyoudao1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyiyoudao/Wangyiyoudao2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/xiaomi/Xiaomi1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/xiaomi/Xiaomi2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/xiaomi/Xiaomi3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/zhubajie/Zhubajie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi12.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi13.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi14.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi15.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/jingdong/JingDong1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/jingdong/JingDong2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/jingdong/JingDong4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/pinduoduo/PinDuoDuo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/pinduoduo/PinDuoDuo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/pinduoduo/PinDuoDuo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/pinduoduo/PinDuoDuo4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/tencent/Tencent1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/tencent/Tencent2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/tencent/Tencent3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/paixu/Quick.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/Example.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/TesMax_VALUE.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/TestCopyArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/TestPriority.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/testHashmap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zijietiaodongmianshi/Zijietiaozong.java" />
+    </list>
+    <ignored path="suanfa.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="suanfa" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Explorer1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneTwoZero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/OneTwoZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneEightEight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneEightEight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneTwoOne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.253197">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang5.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang3.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang1.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang4.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang2.java" />
+        <option value="$PROJECT_DIR$/src/testtest/Example.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong5.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong6.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong2.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong1.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong3.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong4.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman3.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman2.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman1.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen1.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen2.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Arrayy/MoveZero.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/explorer/OneTwoZero.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/explorer/OneTwoThree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoTwo.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoThree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/ThreeZeroNine.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneEightEight.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/SevenOneFour.java" />
+        <option value="$PROJECT_DIR$/src/meituan/MeiTuan11.java" />
+        <option value="$PROJECT_DIR$/src/meituan/MeiTuan1.java" />
+        <option value="$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo5.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo6.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo7.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo8.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo9.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo10.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo6.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo9.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo10.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo7.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo5.java" />
+        <option value="$PROJECT_DIR$/src/testtest/TesMax_VALUE.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo1.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo2.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo8.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo4.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bishi2019.pinduoduo" />
+      <recent name="meituan" />
+      <recent name="leetcode.maimaigupiao" />
+      <recent name="leetcode.explorer" />
+      <recent name="bishi2019.yuewen" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\bishi2019" />
+      <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\leetcode" />
+      <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\niuke\xiaozhao2017" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesMax_VALUE">
+    <configuration default="false" name="Pinduoduo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bishi2019.pinduoduo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo1.Pinduoduo1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="suanfa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pinduoduo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bishi2019.pinduoduo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo1.Pinduoduo2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="suanfa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pinduoduo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bishi2019.pinduoduo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo1.Pinduoduo4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="suanfa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pinduoduo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bishi2019.pinduoduo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo1.Pinduoduo3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="suanfa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TesMax_VALUE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="testtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="testtest.TesMax_VALUE" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="suanfa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="suanfa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Pinduoduo1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Pinduoduo2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Pinduoduo4" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Pinduoduo3" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TesMax_VALUE" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TesMax_VALUE" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Pinduoduo3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Pinduoduo4" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Pinduoduo2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Pinduoduo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="" />
+      <created>1553085755915</created>
+      <option name="number" value="Default" />
+      <updated>1553085755915</updated>
+      <workItem from="1553085764056" duration="677000" />
+      <workItem from="1553086456273" duration="3635000" />
+      <workItem from="1553219065266" duration="13315000" />
+      <workItem from="1553421266505" duration="24000" />
+      <workItem from="1553427866598" duration="4592000" />
+      <workItem from="1553865768689" duration="12659000" />
+      <workItem from="1554288760385" duration="6604000" />
+      <workItem from="1554435298481" duration="14474000" />
+      <workItem from="1554471033427" duration="2358000" />
+      <workItem from="1554720405077" duration="6316000" />
+      <workItem from="1554771586523" duration="10639000" />
+      <workItem from="1554977743089" duration="7120000" />
+      <workItem from="1555027073477" duration="7248000" />
+      <workItem from="1555639535301" duration="4331000" />
+      <workItem from="1555743406053" duration="13066000" />
+      <workItem from="1556155630580" duration="2057000" />
+      <workItem from="1557059885906" duration="16600000" />
+      <workItem from="1557215234138" duration="1634000" />
+      <workItem from="1557233229893" duration="351000" />
+      <workItem from="1557233666420" duration="213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127913000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.510661" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.48933902" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49417636" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49417636" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12953092" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5058236" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33035713" sideWeight="0.4552239" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20535715" sideWeight="0.3891258" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30357143" sideWeight="0.4163113" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi6.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi1.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/xiaozhao2018/tencent/Tencent2.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/tencent/Tencent2.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng2.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng2.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng3.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng3.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng3.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng4.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng4.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng4.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei1.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei1.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang1.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong2.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman1.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman2.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman2.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/meituan/MeiTuan1.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/meituan/MeiTuan1.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/meituan/MeiTuan1.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/meituan/MeiTuan1.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java</url>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
+          <line>28</line>
+          <properties class="bishi2019.huawei.Huawei3" method="count" />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="53" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17397662">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/tencent/Tencent1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59297216">
+          <caret line="16" column="9" selection-start-line="9" selection-start-column="4" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5139092">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.011713031">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtest/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2208" column="18" selection-start-line="2208" selection-start-column="18" selection-end-line="2208" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="32" selection-start-line="34" selection-start-column="8" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="0" selection-start-line="10" selection-start-column="4" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/Ali/Ali1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/ThreeZeroNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="55" selection-start-line="30" selection-start-column="12" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/SevenOneFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="29" selection-start-line="32" selection-start-column="4" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/meituan/MeiTuan2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/meituan/MeiTuan1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paixu/Quick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtest/TestPriority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.PriorityQueue">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.PriorityQueue</OriginalElement>
+          <nodes>
+            <node x="170.25" y="160.0">java.util.AbstractCollection</node>
+            <node x="57.5" y="320.0">java.util.PriorityQueue</node>
+            <node x="132.5" y="80.0">java.util.Collection</node>
+            <node x="118.0" y="240.0">java.util.AbstractQueue</node>
+            <node x="80.25" y="160.0">java.util.Queue</node>
+            <node x="138.5" y="0.0">java.lang.Iterable</node>
+            <node x="0.0" y="240.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.PriorityQueue" target="java.util.AbstractQueue">
+              <point x="27.75" y="-15.0" />
+              <point x="140.75" y="295.0" />
+              <point x="177.0" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractQueue" target="java.util.AbstractCollection">
+              <point x="29.5" y="-15.0" />
+              <point x="206.5" y="215.0" />
+              <point x="238.75" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.PriorityQueue" target="java.io.Serializable">
+              <point x="-27.75" y="-15.0" />
+              <point x="85.25" y="295.0" />
+              <point x="49.0" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-15.0" />
+              <point x="238.75" y="135.0" />
+              <point x="199.25" y="135.0" />
+              <point x="22.25" y="15.0" />
+            </edge>
+            <edge source="java.util.Queue" target="java.util.Collection">
+              <point x="0.0" y="-15.0" />
+              <point x="115.25" y="135.0" />
+              <point x="154.75" y="135.0" />
+              <point x="-22.25" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractQueue" target="java.util.Queue">
+              <point x="-29.5" y="-15.0" />
+              <point x="147.5" y="215.0" />
+              <point x="115.25" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="229.0" y="257.0" />
+          <SelectedNodes>
+            <node>java.util.PriorityQueue</node>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="486" column="24" selection-start-line="486" selection-start-column="24" selection-end-line="486" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3325" column="0" selection-start-line="3325" selection-start-column="0" selection-end-line="3325" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="9" selection-start-line="17" selection-start-column="4" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67203516">
+          <caret line="18" column="9" selection-start-line="10" selection-start-column="4" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7510981">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33235726">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtest/TesMax_VALUE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23718888">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5695461">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6090777">
+          <caret line="87" column="25" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1322#1331#0" expanded="false" />
+            <element signature="e#1380#1389#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0278184">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/OneTwoZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneEightEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.253197">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>suanfa</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
