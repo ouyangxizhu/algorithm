@@ -2,411 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/Ali/Ali1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/Ali/Ali2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/Ali/PrintRunnable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/duxiaoman/Duxiaoman1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/duxiaoman/Duxiaoman2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/duxiaoman/Duxiaoman3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/huawei/Huawei5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong1$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/jingdong/Jingdong4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo/Pinduoduo4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo1/Pinduoduo1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo1/Pinduoduo2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo1/Pinduoduo3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/pinduoduo1/Pinduoduo4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/tencent/Tencent1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/tencent/Tencent2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/tencent/Tencent3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi20.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/wangyi/Wangyi6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/weizhongyinhang/Weizhongyinhang5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/xiecheng/Xiecheng1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/xiecheng/Xiecheng2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/xiecheng/Xiecheng3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/xiecheng/Xiecheng4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/yuewen/Yuewen1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/yuewen/Yuewen2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/yuewen/Yuewen3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/MM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bishi2019/zijietiaodong/ZiJieTiaoDong4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/cutline/Cutline1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/cutline/Cutline2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/explorer/Explorer1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/explorer/OneTwoZero.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/OneEightEight.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/OneTwoOne.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/OneTwoThree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/OneTwoTwo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/SevenOneFour.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/leetcode/maimaigupiao/ThreeZeroNine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/meituan/MeiTuan1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/meituan/MeiTuan2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/Mihayou1$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/Mihayou1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/Mihayou2$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/Mihayou2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/mihayou/TT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/leetcode/Leetcode1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/swordoffer/Offer1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2016/tencent/Tencent1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2016/xiaomi/Xiaomi1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi2$Customer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi2arr$Customer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi2arr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/didi/DiDi6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/haoweilai/HaoWeLai6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/jingdong/Jingdong1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/jingdong/Jingdong2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/jingdong/Jingdong3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/jingdong/Jingdong4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/meituan/MeiTuan1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/meituan/MeiTuan2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/meituan/MeiTuan3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/meituan/MeiTuan4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna2$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/quna/Quna4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/souhu/Souhu1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/souhu/Souhu2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/souhu/Souhu3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/tencent/Tencent1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/tencent/Tencent2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/tencent/Tencent3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/tencent/Tencent4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Compara.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/IntegerMax.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/MaxValue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan2$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/test/Scan3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/threesixzero/ThreeSixZero.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao2$TrieTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/toutiao/Toutiao3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wacai/Wacai1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wacai/Wacai2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangy17.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi16.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi17.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi18.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi21.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi22.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi23.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi24.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi25.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi26.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi27.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi28.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyi/Wangyi9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyiyoudao/Wangyiyoudao1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/wangyiyoudao/Wangyiyoudao2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/xiaomi/Xiaomi1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/xiaomi/Xiaomi2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/xiaomi/Xiaomi3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/zhubajie/Zhubajie$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2017/zhubajie/Zhubajie.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/aiqiyi/AiQiYi4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/pinduoduo/PinDuoDuo1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/pinduoduo/PinDuoDuo2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/pinduoduo/PinDuoDuo3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/pinduoduo/PinDuoDuo4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/tencent/Tencent1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/tencent/Tencent2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/tencent/Tencent3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/wangyi/Wangyi5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/paixu/Quick.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/testtest/Example.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/testtest/TesMax_VALUE.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/testtest/TestPriority.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/testtest/testHashmap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/zijietiaodongmianshi/Zijietiaozong.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/Ali/Ali1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/Ali/Ali2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/huawei/Huawei5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/tencent/Tencent1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/tencent/Tencent2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/tencent/Tencent3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi20.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/wangyi/Wangyi6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/xiecheng/Xiecheng4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/MM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cutline/Cutline1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cutline/Cutline2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/explorer/OneTwoZero.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneEightEight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoThree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoTwo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/SevenOneFour.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/maimaigupiao/ThreeZeroNine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/meituan/MeiTuan1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/meituan/MeiTuan2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mihayou/Mihayou1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mihayou/Mihayou2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mihayou/TT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/leetcode/Leetcode1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2016/tencent/Tencent1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2016/xiaomi/Xiaomi1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi2arr.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/didi/DiDi6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/haoweilai/HaoWeLai6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/jingdong/Jingdong1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/jingdong/Jingdong2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/jingdong/Jingdong3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/jingdong/Jingdong4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/meituan/MeiTuan1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/meituan/MeiTuan2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/meituan/MeiTuan3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/meituan/MeiTuan4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/quna/Quna1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/quna/Quna2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/quna/Quna3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/quna/Quna4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/souhu/Souhu1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/souhu/Souhu2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/souhu/Souhu3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/tencent/Tencent1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/tencent/Tencent2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/tencent/Tencent3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/tencent/Tencent4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Compara.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/IntegerMax.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/MaxValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Scan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Scan2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/test/Scan3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/threesixzero/ThreeSixZero.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/toutiao/Toutiao1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/toutiao/Toutiao2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/toutiao/Toutiao3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wacai/Wacai1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wacai/Wacai2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangy17.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi17.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi18.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi21.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi22.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi23.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi24.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi25.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi26.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi27.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi28.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyi/Wangyi9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyiyoudao/Wangyiyoudao1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/wangyiyoudao/Wangyiyoudao2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/xiaomi/Xiaomi1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/xiaomi/Xiaomi2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/xiaomi/Xiaomi3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2017/zhubajie/Zhubajie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/aiqiyi/AiQiYi9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/jingdong/JingDong1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/jingdong/JingDong2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/jingdong/JingDong4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/pinduoduo/PinDuoDuo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/pinduoduo/PinDuoDuo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/pinduoduo/PinDuoDuo3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/pinduoduo/PinDuoDuo4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/tencent/Tencent1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/tencent/Tencent2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/tencent/Tencent3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/wangyi/Wangyi5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/xiaozhao2018/zhaoshangyinhang/ZhaoShangYinHang9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/paixu/Quick.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/Example.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/TesMax_VALUE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/TestCopyArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/TestPriority.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/testHashmap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zijietiaodongmianshi/Zijietiaozong.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/huaweijishi/Main1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/niuke/swordoffer/Offer2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtest/StringOrigin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="suanfa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -480,11 +79,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.253197">
+            <state vertical-scroll-proportion="-2.7071824">
               <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Offer2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niuke/swordoffer/Offer2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringOrigin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testtest/StringOrigin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Java/JDK/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1745" column="28" selection-start-line="1745" selection-start-column="28" selection-end-line="1745" selection-end-column="28" />
+              <folding>
+                <element signature="e#66098#66099#0" expanded="true" />
+                <element signature="e#66136#66137#0" expanded="true" />
+                <element signature="e#82612#82613#0" expanded="true" />
+                <element signature="e#82661#82662#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/niuke/huaweijishi/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6442167">
+              <caret line="28" column="55" selection-start-line="25" selection-start-column="8" selection-end-line="28" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matcher.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Java/JDK/src.zip!/java/util/regex/Matcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="948" column="4" selection-start-line="948" selection-start-column="4" selection-end-line="948" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -510,9 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang5.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang3.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang1.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang4.java" />
@@ -561,6 +212,9 @@
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo4.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/niuke/swordoffer/Offer2.java" />
+        <option value="$PROJECT_DIR$/src/testtest/StringOrigin.java" />
+        <option value="$PROJECT_DIR$/src/niuke/huaweijishi/Main1.java" />
       </list>
     </option>
   </component>
@@ -714,6 +368,82 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paixu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niuke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suanfa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="niuke" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huaweijishi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -746,67 +476,7 @@
       <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\niuke\xiaozhao2017" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesMax_VALUE">
-    <configuration default="false" name="Pinduoduo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="bishi2019.pinduoduo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo1.Pinduoduo1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="suanfa" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Pinduoduo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="bishi2019.pinduoduo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo1.Pinduoduo2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="suanfa" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Pinduoduo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="bishi2019.pinduoduo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo1.Pinduoduo4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="suanfa" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Main1">
     <configuration default="false" name="Pinduoduo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -844,6 +514,66 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="suanfa" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Offer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="niuke.swordoffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="niuke.swordoffer.Offer2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StringOrigin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="testtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="testtest.StringOrigin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="niuke.huaweijishi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="niuke.huaweijishi.Main1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
       <envs />
       <method />
     </configuration>
@@ -1270,19 +1000,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Pinduoduo1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Pinduoduo2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Pinduoduo4" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Pinduoduo3" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TesMax_VALUE" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Pinduoduo3" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TesMax_VALUE" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Offer2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StringOrigin" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TesMax_VALUE" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Pinduoduo3" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Pinduoduo4" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Pinduoduo2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Pinduoduo1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StringOrigin" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Offer2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TesMax_VALUE" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Pinduoduo3" />
       </list>
     </recent_temporary>
   </component>
@@ -1318,12 +1048,12 @@
       <workItem from="1557059885906" duration="16600000" />
       <workItem from="1557215234138" duration="1634000" />
       <workItem from="1557233229893" duration="351000" />
-      <workItem from="1557233666420" duration="213000" />
+      <workItem from="1557233666420" duration="6305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127913000" />
+    <option name="totallyTimeSpent" value="134005000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1336,32 +1066,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.4936034" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33035713" sideWeight="0.45309168" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.510661" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20535715" sideWeight="0.6140725" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.48933902" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20535715" sideWeight="0.3859275" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.48933902" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49417636" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49417636" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12953092" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5058236" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30357143" sideWeight="0.41471216" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33035713" sideWeight="0.4552239" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20535715" sideWeight="0.3891258" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30357143" sideWeight="0.4163113" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1572,6 +1302,12 @@
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/swordoffer/Offer2.java</url>
+          <line>1</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
           <line>28</line>
@@ -1579,7 +1315,7 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="53" />
+      <option name="time" value="55" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1588,38 +1324,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17397662">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/tencent/Tencent1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59297216">
-          <caret line="16" column="9" selection-start-line="9" selection-start-column="4" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bishi2019/weizhongyinhang/Weizhongyinhang4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5139092">
@@ -1655,13 +1359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2208" column="18" selection-start-line="2208" selection-start-column="18" selection-end-line="2208" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1993,18 +1690,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/OneTwoZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7071824">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/swordoffer/Offer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="948" column="4" selection-start-line="948" selection-start-column="4" selection-end-line="948" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -2025,10 +1746,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/testtest/StringOrigin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.253197">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1745" column="28" selection-start-line="1745" selection-start-column="28" selection-end-line="1745" selection-end-column="28" />
+          <folding>
+            <element signature="e#66098#66099#0" expanded="true" />
+            <element signature="e#66136#66137#0" expanded="true" />
+            <element signature="e#82612#82613#0" expanded="true" />
+            <element signature="e#82661#82662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/huaweijishi/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6442167">
+          <caret line="28" column="55" selection-start-line="25" selection-start-column="8" selection-end-line="28" selection-end-column="55" />
           <folding />
         </state>
       </provider>
