@@ -1,8 +1,5 @@
 package bishi2019.pinduoduo2;
 
-
-import niuke.xiaozhao2017.souhu.Souhu1;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -13,7 +10,7 @@ import java.util.Scanner;
  * 或者在首尾各加一个元素用来处理边界
  * Created by ouyangxizhu on 2019/4/2.
  */
-public class Pinduoduo001 {
+public class Pinduoduo1 {
 
     public static void main(String args[]) {
 

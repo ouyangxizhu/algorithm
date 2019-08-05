@@ -2,61 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/bytebalance/Byte_567.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_221.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_746.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_406.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_416.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_560.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_581.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_621.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_647.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/question/Question_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testtest/Test_Dequue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testtest/Test_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testtest/Test_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/QuickUnionUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Union_Find_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mode/Mode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/TestSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/TestSeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/high/mathmath/Second.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/linkedlist/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/linkedlist/TwoZeroSix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/midmid/mathmath/Seven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/midmid/others/Third.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/treetree/Five.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_11 (2).java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_5 (2).java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_8 (2).java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/Snippet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/tencentseven/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/meituan/MeiTuan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/meituan/MeiTuan1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/meituan/MeiTuan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/meituan/MeiTuan2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mihayou/Mihayou1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/mihayou/Mihayou1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mihayou/Mihayou2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/mihayou/Mihayou2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mihayou/TT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/mihayou/TT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_139.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_221.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_221.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_746.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_746.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_5.java" afterDir="false" />
     </list>
     <ignored path="suanfa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,35 +46,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            <state relative-caret-position="540">
+              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_746.java">
+        <entry file="file://$PROJECT_DIR$/src/zijietiaodongmianshi/Zijietiaozong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="135">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_221.java">
+        <entry file="file://$PROJECT_DIR$/src/mode/Mode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="243">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_221.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_746.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_139.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="486">
+              <caret line="92" column="5" lean-forward="true" selection-start-line="79" selection-start-column="4" selection-end-line="92" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,13 +111,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo001.java">
+        <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="918">
+              <caret line="34" column="33" selection-start-line="28" selection-start-column="7" selection-end-line="34" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1269">
+              <caret line="47" column="5" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -157,9 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo2.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo8.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo4.java" />
         <option value="$PROJECT_DIR$/src/niuke/swordoffer/Offer2.java" />
         <option value="$PROJECT_DIR$/src/testtest/StringOrigin.java" />
@@ -199,7 +183,6 @@
         <option value="$PROJECT_DIR$/src/testtest/Test_String.java" />
         <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_406.java" />
         <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_416.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo1.java" />
         <option value="$PROJECT_DIR$/src/niuke/question/Question_001.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java" />
@@ -208,6 +191,10 @@
         <option value="$PROJECT_DIR$/src/leetcode/dynamicProgramme/leetcode_746.java" />
         <option value="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_221.java" />
         <option value="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo1.java" />
+        <option value="$PROJECT_DIR$/src/mode/Mode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_5.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_139.java" />
       </list>
     </option>
   </component>
@@ -331,7 +318,7 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicProgramme" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicprogramming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,11 +332,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myblog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/leetcode/dynamicprogramming" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -360,11 +347,11 @@
       <recent name="leetcode.explorer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programme\algorithm\src\leetcode\dynamicprogramming" />
       <recent name="D:\Programme\algorithm\src\bishi2019\pinduoduo2" />
       <recent name="D:\Programme\algorithm\src\util" />
       <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\bishi2019" />
       <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\leetcode" />
-      <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\niuke\xiaozhao2017" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -747,12 +734,12 @@
       <workItem from="1564296368794" duration="7623000" />
       <workItem from="1564325306820" duration="806000" />
       <workItem from="1564887221394" duration="324000" />
-      <workItem from="1564991051841" duration="2225000" />
+      <workItem from="1564991051841" duration="5911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176102000" />
+    <option name="totallyTimeSpent" value="179788000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -767,7 +754,7 @@
     <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49417636" visible="true" weight="0.15828878" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49417636" visible="true" weight="0.15828878" />
       <window_info id="Structure" order="1" sideWeight="0.49417636" weight="0.25208768" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5058236" side_tool="true" weight="0.25" />
@@ -777,13 +764,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946523" weight="0.32993197" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.38342246" weight="0.30839002" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.41283423" visible="true" weight="0.37641722" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.41283423" weight="0.37641722" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.32924107" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.45309168" weight="0.32928178" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.32924107" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.47438633" weight="0.32922733" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.47438633" visible="true" weight="0.32879817" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5871658" side_tool="true" weight="0.3020362" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -1065,34 +1052,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/linkedlist/TwoZeroSix.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/TestSeven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/primary/treetree/Five.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/tencent/First/First_8 (2).java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/tencent/First/First_11 (2).java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/linkedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/midmid/mathmath/Seven.java" />
     <entry file="jar://C:/Java/JDK/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1323,20 +1282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="47" column="5" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="33" selection-start-line="28" selection-start-column="7" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Java/JDK/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2025">
@@ -1362,23 +1307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_746.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1395,11 +1323,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="405">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="33" selection-start-line="28" selection-start-column="7" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="47" column="5" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zijietiaodongmianshi/Zijietiaozong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mode/Mode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_221.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_746.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_139.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="92" column="5" lean-forward="true" selection-start-line="79" selection-start-column="4" selection-end-line="92" selection-end-column="5" />
         </state>
       </provider>
     </entry>

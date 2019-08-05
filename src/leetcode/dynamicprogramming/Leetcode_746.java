@@ -1,4 +1,4 @@
-package leetcode.dynamicProgramme;
+package leetcode.dynamicprogramming;
 
 public class Leetcode_746 {
     public int minCostClimbingStairs(int[] cost) {

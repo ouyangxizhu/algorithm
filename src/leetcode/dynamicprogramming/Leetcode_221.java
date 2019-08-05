@@ -1,4 +1,4 @@
-package leetcode.dynamicProgramme;
+package leetcode.dynamicprogramming;
 
 public class Leetcode_221 {
     public int maximalSquare(char[][] matrix) {
