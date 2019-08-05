@@ -2,20 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bytebalance/Byte_567.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_621.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/hot_100/Hot_647.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/question/Question_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testtest/Test_Dequue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testtest/Test_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testtest/Test_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/QuickUnionUF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Union_Find_Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/TestSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/TestSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/high/mathmath/Second.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/linkedlist/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/linkedlist/TwoZeroSix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/midmid/mathmath/Seven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/midmid/others/Third.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/primary/treetree/Five.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_11 (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_5 (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_8 (2).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/First_8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/Snippet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/tencent/First/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/tencentseven/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/meituan/MeiTuan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/meituan/MeiTuan1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/meituan/MeiTuan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/meituan/MeiTuan2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mihayou/Mihayou1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/mihayou/Mihayou1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mihayou/Mihayou2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/mihayou/Mihayou2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mihayou/TT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishi2019/mihayou/TT.java" afterDir="false" />
     </list>
     <ignored path="suanfa.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
@@ -30,17 +82,46 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="suanfa" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Leetcode1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/leetcode/Leetcode1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="185">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_746.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_221.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,67 +129,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/niuke/leetcode/Leetcode2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1783217">
-              <caret line="44" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/JDK/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/JDK/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="170" column="14" selection-start-line="170" selection-start-column="14" selection-end-line="170" selection-end-column="14" />
-              <folding>
-                <element signature="e#23699#23700#0" expanded="true" />
-                <element signature="e#23735#23736#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testtest/TestStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="243">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/JDK/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/JDK/src.zip!/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -118,6 +146,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -125,58 +154,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/testtest/Example.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong5.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong6.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong2.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong1.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong3.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/jingdong/Jingdong4.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman3.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman2.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman1.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen1.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen2.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen3.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Arrayy/MoveZero.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/explorer/OneTwoZero.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/explorer/OneTwoThree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoTwo.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoThree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/ThreeZeroNine.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/OneEightEight.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/maimaigupiao/SevenOneFour.java" />
-        <option value="$PROJECT_DIR$/src/meituan/MeiTuan11.java" />
-        <option value="$PROJECT_DIR$/src/meituan/MeiTuan1.java" />
-        <option value="$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo5.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo6.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo7.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo8.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo9.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo10.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo6.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo9.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo10.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo7.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo5.java" />
-        <option value="$PROJECT_DIR$/src/testtest/TesMax_VALUE.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo1.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo2.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo8.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo4.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/niuke/swordoffer/Offer2.java" />
         <option value="$PROJECT_DIR$/src/testtest/StringOrigin.java" />
         <option value="$PROJECT_DIR$/src/niuke/huaweijishi/Main1.java" />
@@ -184,13 +168,48 @@
         <option value="$PROJECT_DIR$/src/testtest/TestStack.java" />
         <option value="$PROJECT_DIR$/src/niuke/leetcode/Leetcode1.java" />
         <option value="$PROJECT_DIR$/src/niuke/leetcode/Leetcode2.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/leetcode/tencent/First/Snippet.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tencent/First/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dynamicprogramming/TestSeven.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/linkedlist/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/linkedlist/TwoZeroSix.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/primary/treetree/Five.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/tencent/First/First_11 (2).java" />
+        <option value="$PROJECT_DIR$/src/leetcode/bytebalance/Byte_567.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_39.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_42.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_560.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_647.java" />
+        <option value="$PROJECT_DIR$/src/util.java" />
+        <option value="$PROJECT_DIR$/src/util/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/testtest/Test_Integer.java" />
+        <option value="$PROJECT_DIR$/src/util/Union_Find_Set.java" />
+        <option value="$PROJECT_DIR$/src/util/QuickUnionUF.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_543.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_581.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_621.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance4.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance5.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance6.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance1.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance2.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance3.java" />
+        <option value="$PROJECT_DIR$/src/testtest/Test_String.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_406.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_416.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo1.java" />
+        <option value="$PROJECT_DIR$/src/niuke/question/Question_001.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo001.java" />
+        <option value="$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dynamicProgramme/leetcode_746.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_221.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -208,10 +227,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -281,138 +300,43 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testtest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="paixu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="niuke" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="suanfa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicProgramme" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -421,28 +345,41 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myblog" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bishi2019.bytebalance" />
       <recent name="bishi2019.pinduoduo" />
       <recent name="meituan" />
       <recent name="leetcode.maimaigupiao" />
       <recent name="leetcode.explorer" />
-      <recent name="bishi2019.yuewen" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programme\algorithm\src\bishi2019\pinduoduo2" />
+      <recent name="D:\Programme\algorithm\src\util" />
       <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\bishi2019" />
       <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\leetcode" />
       <recent name="D:\Chengxu\Myeclipsechengxu\suanfa\src\niuke\xiaozhao2017" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main1">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Leetcode_139">
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -553,13 +490,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.huaweijishi.Main1" />
+    <configuration name="Leetcode_139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.dynamicProgramme.Leetcode_139" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niuke.huaweijishi.*" />
+          <option name="PATTERN" value="leetcode.dynamicProgramme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -567,13 +504,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Offer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.swordoffer.Offer2" />
+    <configuration name="Leetcode_746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.dynamicProgramme.Leetcode_746" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="niuke.swordoffer.*" />
+          <option name="PATTERN" value="leetcode.dynamicProgramme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pinduoduo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo2.Pinduoduo2" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bishi2019.pinduoduo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -582,26 +533,12 @@
       </method>
     </configuration>
     <configuration name="Pinduoduo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo1.Pinduoduo3" />
-      <module name="suanfa" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bishi2019.pinduoduo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringOrigin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testtest.StringOrigin" />
+      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo2.Pinduoduo3" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testtest.*" />
+          <option name="PATTERN" value="bishi2019.pinduoduo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -609,13 +546,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesMax_VALUE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testtest.TesMax_VALUE" />
-      <module name="suanfa" />
+    <configuration name="Pinduoduo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bishi2019.pinduoduo2.Pinduoduo4" />
+      <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testtest.*" />
+          <option name="PATTERN" value="bishi2019.pinduoduo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -749,23 +686,22 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.Pinduoduo2" />
+      <item itemvalue="Application.Pinduoduo4" />
       <item itemvalue="Application.Pinduoduo3" />
-      <item itemvalue="Application.TesMax_VALUE" />
-      <item itemvalue="Application.Offer2" />
-      <item itemvalue="Application.StringOrigin" />
-      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Leetcode_746" />
+      <item itemvalue="Application.Leetcode_139" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.StringOrigin" />
-        <item itemvalue="Application.Offer2" />
-        <item itemvalue="Application.TesMax_VALUE" />
+        <item itemvalue="Application.Leetcode_139" />
+        <item itemvalue="Application.Leetcode_746" />
         <item itemvalue="Application.Pinduoduo3" />
+        <item itemvalue="Application.Pinduoduo4" />
+        <item itemvalue="Application.Pinduoduo2" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
@@ -777,6 +713,7 @@
       <changelist id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="" />
       <created>1553085755915</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1553085755915</updated>
       <workItem from="1553085764056" duration="677000" />
       <workItem from="1553086456273" duration="3635000" />
@@ -799,11 +736,23 @@
       <workItem from="1557233229893" duration="351000" />
       <workItem from="1557233666420" duration="13374000" />
       <workItem from="1557708560356" duration="1299000" />
+      <workItem from="1560837636461" duration="130000" />
+      <workItem from="1561712415850" duration="666000" />
+      <workItem from="1561717003807" duration="1874000" />
+      <workItem from="1561775822295" duration="14678000" />
+      <workItem from="1562400281366" duration="800000" />
+      <workItem from="1562942836513" duration="3097000" />
+      <workItem from="1562988729471" duration="1352000" />
+      <workItem from="1564213872707" duration="154000" />
+      <workItem from="1564296368794" duration="7623000" />
+      <workItem from="1564325306820" duration="806000" />
+      <workItem from="1564887221394" duration="324000" />
+      <workItem from="1564991051841" duration="2225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142373000" />
+    <option name="totallyTimeSpent" value="176102000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -815,34 +764,45 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.4936034" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.52398723" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.4760128" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49417636" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49417636" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12953092" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5058236" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33035713" sideWeight="0.45309168" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20535715" sideWeight="0.3859275" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30357143" sideWeight="0.41471216" order="3" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49417636" visible="true" weight="0.15828878" />
+      <window_info id="Structure" order="1" sideWeight="0.49417636" weight="0.25208768" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5058236" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946523" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.38342246" weight="0.30839002" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.41283423" visible="true" weight="0.37641722" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.32924107" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.45309168" weight="0.32928178" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.32924107" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.47438633" weight="0.32922733" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5871658" side_tool="true" weight="0.3020362" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.12953092" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="10" side_tool="true" visible="true" weight="0.15347594" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -851,9 +811,6 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
@@ -1006,25 +963,25 @@
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/meituan/MeiTuan1.java</url>
+          <url>file://$PROJECT_DIR$/src/bishi2019/meituan/MeiTuan1.java</url>
           <line>78</line>
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/meituan/MeiTuan1.java</url>
+          <url>file://$PROJECT_DIR$/src/bishi2019/meituan/MeiTuan1.java</url>
           <line>84</line>
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/meituan/MeiTuan1.java</url>
+          <url>file://$PROJECT_DIR$/src/bishi2019/meituan/MeiTuan1.java</url>
           <line>55</line>
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/meituan/MeiTuan1.java</url>
+          <url>file://$PROJECT_DIR$/src/bishi2019/meituan/MeiTuan1.java</url>
           <line>64</line>
           <properties />
           <option name="timeStamp" value="42" />
@@ -1058,6 +1015,42 @@
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance3.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_416.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_746.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
           <line>28</line>
@@ -1065,631 +1058,348 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="55" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei4.java">
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="1512">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman3.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/linkedlist/TwoZeroSix.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/TestSeven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="27">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/Ali/Ali1.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/primary/treetree/Five.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/tencent/First/First_8 (2).java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/tencent/First/First_11 (2).java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/linkedlist/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="189">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen2.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/midmid/mathmath/Seven.java" />
+    <entry file="jar://C:/Java/JDK/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/yuewen/Yuewen1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/ThreeZeroNine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="55" selection-start-line="30" selection-start-column="12" selection-end-line="32" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/SevenOneFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="29" selection-start-line="32" selection-start-column="4" selection-end-line="34" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/meituan/MeiTuan2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/meituan/MeiTuan1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/swordoffer/Offer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/paixu/Quick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testtest/TestPriority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.PriorityQueue">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.PriorityQueue</OriginalElement>
-          <nodes>
-            <node x="170.25" y="160.0">java.util.AbstractCollection</node>
-            <node x="57.5" y="320.0">java.util.PriorityQueue</node>
-            <node x="132.5" y="80.0">java.util.Collection</node>
-            <node x="118.0" y="240.0">java.util.AbstractQueue</node>
-            <node x="80.25" y="160.0">java.util.Queue</node>
-            <node x="138.5" y="0.0">java.lang.Iterable</node>
-            <node x="0.0" y="240.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.PriorityQueue" target="java.util.AbstractQueue">
-              <point x="27.75" y="-15.0" />
-              <point x="140.75" y="295.0" />
-              <point x="177.0" y="295.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractQueue" target="java.util.AbstractCollection">
-              <point x="29.5" y="-15.0" />
-              <point x="206.5" y="215.0" />
-              <point x="238.75" y="215.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.PriorityQueue" target="java.io.Serializable">
-              <point x="-27.75" y="-15.0" />
-              <point x="85.25" y="295.0" />
-              <point x="49.0" y="295.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-15.0" />
-              <point x="238.75" y="135.0" />
-              <point x="199.25" y="135.0" />
-              <point x="22.25" y="15.0" />
-            </edge>
-            <edge source="java.util.Queue" target="java.util.Collection">
-              <point x="0.0" y="-15.0" />
-              <point x="115.25" y="135.0" />
-              <point x="154.75" y="135.0" />
-              <point x="-22.25" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractQueue" target="java.util.Queue">
-              <point x="-29.5" y="-15.0" />
-              <point x="147.5" y="215.0" />
-              <point x="115.25" y="215.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="229.0" y="257.0" />
-          <SelectedNodes>
-            <node>java.util.PriorityQueue</node>
-            <node>java.io.Serializable</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="486" column="24" selection-start-line="486" selection-start-column="24" selection-end-line="486" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="225">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Java/JDK/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3325" column="0" selection-start-line="3325" selection-start-column="0" selection-end-line="3325" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="3206" column="21" selection-start-line="3206" selection-start-column="21" selection-end-line="3206" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo.java">
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="9" selection-start-line="17" selection-start-column="4" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="360">
+          <caret line="171" column="34" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo1.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_39.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="371">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo2.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/bytebalance/Byte_567.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67203516">
-          <caret line="18" column="9" selection-start-line="10" selection-start-column="4" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="594">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo/Pinduoduo3.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_42.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7510981">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="488">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_560.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33235726">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        <state relative-caret-position="434">
+          <caret line="28" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testtest/TesMax_VALUE.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_647.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23718888">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="486">
+          <caret line="18" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util.java" />
+    <entry file="file://$PROJECT_DIR$/src/util/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtest/Test_Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/QuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Union_Find_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_543.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_581.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_621.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/duxiaoman/Duxiaoman1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance5.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance6.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="47" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_406.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="27" selection-start-line="9" selection-start-column="8" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/hot_100/Hot_416.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtest/Test_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="432">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo2.java">
+    <entry file="file://$PROJECT_DIR$/src/niuke/question/Question_001.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5695461">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.6090777">
-          <caret line="87" column="25" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1322#1331#0" expanded="false" />
-            <element signature="e#1380#1389#0" expanded="false" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo1/Pinduoduo4.java">
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0278184">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="25542">
+          <caret line="1026" column="30" selection-start-line="1026" selection-start-column="30" selection-end-line="1026" selection-end-column="31" />
+          <folding>
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/OneTwoZero.java">
+    <entry file="jar://C:/Java/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state relative-caret-position="6804">
+          <caret line="297" column="32" selection-start-line="297" selection-start-column="32" selection-end-line="297" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7071824">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="1269">
+          <caret line="47" column="5" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/swordoffer/Offer2.java">
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="948" column="4" selection-start-line="948" selection-start-column="4" selection-end-line="948" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/explorer/Explorer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneEightEight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/maimaigupiao/OneTwoOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testtest/StringOrigin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="918">
+          <caret line="34" column="33" selection-start-line="28" selection-start-column="7" selection-end-line="34" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Java/JDK/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1745" column="28" selection-start-line="1745" selection-start-column="28" selection-end-line="1745" selection-end-column="28" />
+        <state relative-caret-position="2025">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/huaweijishi/Main1.java">
+    <entry file="jar://C:/Java/JDK/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="55" selection-start-line="25" selection-start-column="8" selection-end-line="28" selection-end-column="55" />
+        <state relative-caret-position="162">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/leetcode/TreeNode.java">
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="203">
+          <caret line="182" column="17" selection-start-line="182" selection-start-column="17" selection-end-line="182" selection-end-column="17" />
+          <folding>
+            <element signature="e#7388#7389#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testtest/TestStack.java">
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="185">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/java.util.Stack">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.Stack</OriginalElement>
-          <nodes>
-            <node x="228.0" y="240.0">java.util.RandomAccess</node>
-            <node x="481.25" y="160.0">java.util.List</node>
-            <node x="324.25" y="160.0">java.util.AbstractCollection</node>
-            <node x="118.0" y="240.0">java.lang.Cloneable</node>
-            <node x="253.0" y="320.0">java.util.Vector</node>
-            <node x="405.9318181818182" y="80.0">java.util.Collection</node>
-            <node x="368.0" y="240.0">java.util.AbstractList</node>
-            <node x="256.5" y="400.0">java.util.Stack</node>
-            <node x="411.9318181818182" y="0.0">java.lang.Iterable</node>
-            <node x="0.0" y="240.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.Vector" target="java.io.Serializable">
-              <point x="-28.0" y="-15.0" />
-              <point x="260.0" y="300.0" />
-              <point x="49.0" y="300.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.Vector" target="java.util.AbstractList">
-              <point x="14.0" y="-15.0" />
-              <point x="302.0" y="290.0" />
-              <point x="417.5" y="290.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.Vector" target="java.lang.Cloneable">
-              <point x="-14.0" y="-15.0" />
-              <point x="274.0" y="290.0" />
-              <point x="163.0" y="290.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.Vector" target="java.util.List">
-              <point x="28.0" y="-15.0" />
-              <point x="316.0" y="300.0" />
-              <point x="519.5" y="300.0" />
-              <point x="12.75" y="15.0" />
-            </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-15.0" />
-              <point x="506.75" y="135.0" />
-              <point x="472.6818181818182" y="135.0" />
-              <point x="22.25" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.List">
-              <point x="24.75" y="-15.0" />
-              <point x="442.25" y="215.0" />
-              <point x="494.0" y="215.0" />
-              <point x="-12.75" y="15.0" />
-            </edge>
-            <edge source="java.util.Stack" target="java.util.Vector">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="-24.75" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.Vector" target="java.util.RandomAccess">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-15.0" />
-              <point x="392.75" y="135.0" />
-              <point x="428.1818181818182" y="135.0" />
-              <point x="-22.25" y="15.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-197.0" y="183.0" />
-          <SelectedNodes>
-            <node>java.util.List</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_746.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="170" column="14" selection-start-line="170" selection-start-column="14" selection-end-line="170" selection-end-column="14" />
-          <folding>
-            <element signature="e#23699#23700#0" expanded="true" />
-            <element signature="e#23735#23736#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_221.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="432">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicProgramme/Leetcode_139.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.LinkedList">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.LinkedList</OriginalElement>
-          <nodes>
-            <node x="371.24999999999994" y="160.0">java.util.List</node>
-            <node x="214.24999999999997" y="160.0">java.util.AbstractCollection</node>
-            <node x="117.99999999999997" y="320.0">java.lang.Cloneable</node>
-            <node x="353.0267857142857" y="80.0">java.util.Collection</node>
-            <node x="258.0" y="240.0">java.util.AbstractList</node>
-            <node x="442.25" y="160.0">java.util.Queue</node>
-            <node x="263.0" y="400.0">java.util.LinkedList</node>
-            <node x="442.25" y="240.0">java.util.Deque</node>
-            <node x="227.99999999999997" y="320.0">java.util.AbstractSequentialList</node>
-            <node x="359.0267857142857" y="0.0">java.lang.Iterable</node>
-            <node x="0.0" y="320.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.AbstractSequentialList" target="java.util.AbstractList">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.util.Deque">
-              <point x="35.60000000000002" y="-15.0" />
-              <point x="343.1" y="380.0" />
-              <point x="477.25" y="380.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.util.List">
-              <point x="17.80000000000001" y="-15.0" />
-              <point x="325.29999999999995" y="370.0" />
-              <point x="409.5" y="370.0" />
-              <point x="12.750000000000007" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
-              <point x="-24.75" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.Queue" target="java.util.Collection">
-              <point x="0.0" y="-15.0" />
-              <point x="477.25" y="135.0" />
-              <point x="427.1934523809524" y="135.0" />
-              <point x="29.666666666666686" y="15.0" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.lang.Cloneable">
-              <point x="-17.80000000000001" y="-15.0" />
-              <point x="289.69999999999993" y="370.0" />
-              <point x="162.99999999999997" y="370.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.io.Serializable">
-              <point x="-35.60000000000002" y="-15.0" />
-              <point x="271.9" y="380.0" />
-              <point x="49.0" y="380.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.List" target="java.util.Collection">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractList" target="java.util.List">
-              <point x="24.75" y="-15.0" />
-              <point x="332.25" y="215.0" />
-              <point x="383.99999999999994" y="215.0" />
-              <point x="-12.75" y="15.0" />
-            </edge>
-            <edge source="java.util.Collection" target="java.lang.Iterable">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.Deque" target="java.util.Queue">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.LinkedList" target="java.util.AbstractSequentialList">
-              <point x="0.0" y="-15.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="java.util.AbstractCollection" target="java.util.Collection">
-              <point x="0.0" y="-15.0" />
-              <point x="282.75" y="135.0" />
-              <point x="367.86011904761904" y="135.0" />
-              <point x="-29.666666666666686" y="15.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-207.0" y="183.0" />
-          <SelectedNodes>
-            <node>java.util.Queue</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/leetcode/Leetcode1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="162">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/leetcode/Leetcode2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1783217">
-          <caret line="44" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>

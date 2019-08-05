@@ -1,9 +1,9 @@
-package mihayou;
+package bishi2019.mihayou;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Mihayou1 {
+public class Mihayou2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
@@ -14,26 +14,37 @@ public class Mihayou1 {
 			int len = sc.nextInt();
 			q.add(new Node(x, y, len));
 		}
-		int res = 0;
-		int prex = 0;
-		int prey = 0;
-		
+		Node preNode = q.poll();
+		long res = preNode.getLen() * preNode.getLen();
+		int prex = preNode.x + preNode.len;
+		int prey = preNode.y + preNode.len;
 		while (!q.isEmpty()) {
 			Node node = q.poll();
 			res += node.getLen() * node.getLen();
-			if (node.getX() < prex && node.getY() < prey) {
-				res -= (prex - node.getX()) * (prey - node.getY());
+			if (node.x < prex) {
+				if (node.y < prey && node.y > preNode.y) {
+					
+					int m = Math.min(prex, node.x + node.len);
+					int mm = Math.min(prey, node.y + node.len);
+					res -= (m - node.x) * (mm - node.y);
+				}else if (node.y < preNode.y && node.y + node.len > preNode.y) {
+					int m = Math.min(prex, node.x + node.len);
+					int mm = Math.min(prey, node.y + node.len);
+		
+					res -= (m - node.x) * (mm - preNode.y);
+				}
 			}
 			prex = node.getX() + node.getLen();
 			prey = node.getY() + node.getLen();
+			preNode = node;
 		}
 		System.out.println(res);
 		
 	}
 	static class Node implements Comparable<Node>{
-		private int x;
-		private int y;
-		private int len;
+		public int x;
+		public int y;
+		public int len;
 		
 		public Node(int x, int y, int len) {
 			this.x = x;
@@ -76,6 +87,13 @@ public class Mihayou1 {
 		public int compareTo(Node o) {
 			return this.x - o.x;
 		}
+
+
+		@Override
+		public String toString() {
+			return "Node [x=" + x + ", y=" + y + ", len=" + len + "]";
+		}
+		
 		
 	}
 
