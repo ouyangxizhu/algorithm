@@ -1,6 +1,6 @@
 package leetcode.dynamicprogramming;
 
-public class Leetcode_746 {
+public class Leetcode_0746 {
     public int minCostClimbingStairs(int[] cost) {
         if(cost == null || cost.length <= 1)
             return 0;
@@ -17,7 +17,7 @@ public class Leetcode_746 {
     }
     public static void main(String[] args){
         int[] cost = {0, 0, 1, 1};
-        System.out.println(new Leetcode_746().minCostClimbingStairs(cost));
+        System.out.println(new Leetcode_0746().minCostClimbingStairs(cost));
     
     }
 }

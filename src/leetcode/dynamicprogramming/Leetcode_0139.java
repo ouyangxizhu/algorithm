@@ -2,7 +2,7 @@ package leetcode.dynamicprogramming;
 
 import java.util.*;
 
-public class Leetcode_139 {
+public class Leetcode_0139 {
     public boolean wordBreak1(String s, List<String> wordDict) {
         return helper1(s, new HashSet<>(wordDict), 0, new Boolean[s.length()]);
     }
@@ -149,7 +149,7 @@ public class Leetcode_139 {
 
 
     public static void main(String[] args) {
-        System.out.println(new Leetcode_139().wordBreak("leetcode", Arrays.asList("leet","code")));
+        System.out.println(new Leetcode_0139().wordBreak("leetcode", Arrays.asList("leet","code")));
     }
 
 }

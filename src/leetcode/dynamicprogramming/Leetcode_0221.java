@@ -1,6 +1,6 @@
 package leetcode.dynamicprogramming;
 
-public class Leetcode_221 {
+public class Leetcode_0221 {
     public int maximalSquare(char[][] matrix) {
         int rows = matrix.length, cols = rows > 0 ? matrix[0].length : 0;
         int[][] dp = new int[rows + 1][cols + 1];

@@ -18,7 +18,7 @@ package dynamicprogramming;
 2. 向右 -> 向下 -> 向右
 3. 向下 -> 向右 -> 向右
  */
-public class Leetcode_5 {
+public class Leetcode_0005 {
 	public int uniquePaths(int m, int n) {
 		int ans[][]= new int[m][n];
         ans[0][0] = 0;

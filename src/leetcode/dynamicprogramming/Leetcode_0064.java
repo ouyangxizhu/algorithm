@@ -1,21 +1,21 @@
 package dynamicprogramming;
 /*
- *¸ø¶¨Ò»¸ö°üº¬·Ç¸ºÕûÊýµÄ m x n Íø¸ñ£¬ÇëÕÒ³öÒ»Ìõ´Ó×óÉÏ½Çµ½ÓÒÏÂ½ÇµÄÂ·¾¶£¬Ê¹µÃÂ·¾¶ÉÏµÄÊý×Ö×ÜºÍÎª×îÐ¡¡£
+ *ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ m x n ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò³ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï½Çµï¿½ï¿½ï¿½ï¿½Â½Çµï¿½Â·ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½Â·ï¿½ï¿½ï¿½Ïµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Üºï¿½Îªï¿½ï¿½Ð¡ï¿½ï¿½
 
-ËµÃ÷£ºÃ¿´ÎÖ»ÄÜÏòÏÂ»òÕßÏòÓÒÒÆ¶¯Ò»²½¡£
+Ëµï¿½ï¿½ï¿½ï¿½Ã¿ï¿½ï¿½Ö»ï¿½ï¿½ï¿½ï¿½ï¿½Â»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¶ï¿½Ò»ï¿½ï¿½ï¿½ï¿½
 
-Ê¾Àý:
+Ê¾ï¿½ï¿½:
 
-ÊäÈë:
+ï¿½ï¿½ï¿½ï¿½:
 [
   [1,3,1],
   [1,5,1],
   [4,2,1]
 ]
-Êä³ö: 7
-½âÊÍ: ÒòÎªÂ·¾¶ 1¡ú3¡ú1¡ú1¡ú1 µÄ×ÜºÍ×îÐ¡¡£
+ï¿½ï¿½ï¿½: 7
+ï¿½ï¿½ï¿½ï¿½: ï¿½ï¿½ÎªÂ·ï¿½ï¿½ 1ï¿½ï¿½3ï¿½ï¿½1ï¿½ï¿½1ï¿½ï¿½1 ï¿½ï¿½ï¿½Üºï¿½ï¿½ï¿½Ð¡ï¿½ï¿½
  */
-public class DynamicProgramming_64 {
+public class Leetcode_0064 {
 	public int minPathSum(int[][] grid) {
 		int [][] mins = new int [grid.length][grid[0].length];
 		for (int i = 0; i < grid.length; i++) {
