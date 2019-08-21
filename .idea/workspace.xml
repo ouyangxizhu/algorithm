@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0873.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0935.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0967.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0978.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testtest/Test_FutureTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetecode/Leetecode_0105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao2019/interviewofmeituan/MediumOfDoubleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testtest/TestRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testtest/Test_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testtest/Test_String.java" afterDir="false" />
     </list>
     <ignored path="suanfa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,14 +48,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0873.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="857">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+            <state relative-caret-position="189">
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="38" column="28" selection-start-line="27" selection-start-column="12" selection-end-line="38" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_003.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="36" column="9" selection-start-line="17" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_004.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetecode/Leetecode_0105.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testtest/TestRandom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/interviewofmeituan/MediumOfDoubleArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1188">
+              <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/util/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -76,19 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_560.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_647.java" />
-        <option value="$PROJECT_DIR$/src/util.java" />
-        <option value="$PROJECT_DIR$/src/util/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/testtest/Test_Integer.java" />
-        <option value="$PROJECT_DIR$/src/util/Union_Find_Set.java" />
-        <option value="$PROJECT_DIR$/src/util/QuickUnionUF.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_543.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_581.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/hot_100/Hot_621.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance4.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance5.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance6.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance1.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance2.java" />
@@ -127,6 +200,19 @@
         <option value="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0935.java" />
         <option value="$PROJECT_DIR$/src/testtest/Test_FutureTask.java" />
         <option value="$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0873.java" />
+        <option value="$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_001.java" />
+        <option value="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent2.java" />
+        <option value="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencen3.java" />
+        <option value="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent3.java" />
+        <option value="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent4.java" />
+        <option value="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent5.java" />
+        <option value="$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent1.java" />
+        <option value="$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_002.java" />
+        <option value="$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_003.java" />
+        <option value="$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_004.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetecode/Leetecode_0105.java" />
+        <option value="$PROJECT_DIR$/src/testtest/TestRandom.java" />
+        <option value="$PROJECT_DIR$/src/qiuzhao2019/interviewofmeituan/MediumOfDoubleArray.java" />
       </list>
     </option>
   </component>
@@ -147,15 +233,16 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="y" value="2" />
+    <option name="y" value="3" />
     <option name="width" value="1932" />
-    <option name="height" value="1045" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -175,7 +262,14 @@
               <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="qiuzhao2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="qiuzhao2019" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewofmeituan" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,15 +288,15 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="niuke.chengxuyuandaimamianshi" />
+      <recent name="qiuzhao2019.tencent" />
       <recent name="qiuzhao2019.zjitiaodong" />
       <recent name="bishi2019.bytebalance" />
       <recent name="bishi2019.pinduoduo" />
-      <recent name="meituan" />
-      <recent name="leetcode.maimaigupiao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programme\algorithm\src\leetcode\dynamicprogramming" />
@@ -224,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode_0935">
+  <component name="RunManager" selected="Application.MediumOfDoubleArray">
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -335,13 +429,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode_0935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dynamicprogramming.Leetcode_0935" />
+    <configuration name="MediumOfDoubleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiuzhao2019.interviewofmeituan.MediumOfDoubleArray" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dynamicprogramming.*" />
+          <option name="PATTERN" value="qiuzhao2019.interviewofmeituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,13 +443,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode_0967" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dynamicprogramming.Leetcode_0967" />
+    <configuration name="Tencent1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiuzhao2019.tencent.Tencent1" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dynamicprogramming.*" />
+          <option name="PATTERN" value="qiuzhao2019.tencent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,13 +457,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode_0978" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dynamicprogramming.Leetcode_0978" />
+    <configuration name="TestRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testtest.TestRandom" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dynamicprogramming.*" />
+          <option name="PATTERN" value="testtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,13 +471,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZiJieTiaoDong1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiuzhao2019.zjitiaodong.ZiJieTiaoDong1" />
+    <configuration name="Zuo_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.chengxuyuandaimamianshi.Zuo_003" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qiuzhao2019.zjitiaodong.*" />
+          <option name="PATTERN" value="niuke.chengxuyuandaimamianshi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,13 +485,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZiJieTiaoDong2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiuzhao2019.zjitiaodong.ZiJieTiaoDong2" />
+    <configuration name="Zuo_004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.chengxuyuandaimamianshi.Zuo_004" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qiuzhao2019.zjitiaodong.*" />
+          <option name="PATTERN" value="niuke.chengxuyuandaimamianshi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -531,19 +625,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ZiJieTiaoDong1" />
-      <item itemvalue="Application.ZiJieTiaoDong2" />
-      <item itemvalue="Application.Leetcode_0978" />
-      <item itemvalue="Application.Leetcode_0967" />
-      <item itemvalue="Application.Leetcode_0935" />
+      <item itemvalue="Application.Tencent1" />
+      <item itemvalue="Application.Zuo_003" />
+      <item itemvalue="Application.Zuo_004" />
+      <item itemvalue="Application.TestRandom" />
+      <item itemvalue="Application.MediumOfDoubleArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leetcode_0935" />
-        <item itemvalue="Application.Leetcode_0967" />
-        <item itemvalue="Application.Leetcode_0978" />
-        <item itemvalue="Application.ZiJieTiaoDong1" />
-        <item itemvalue="Application.ZiJieTiaoDong2" />
+        <item itemvalue="Application.MediumOfDoubleArray" />
+        <item itemvalue="Application.TestRandom" />
+        <item itemvalue="Application.Zuo_004" />
+        <item itemvalue="Application.Zuo_003" />
+        <item itemvalue="Application.Tencent1" />
       </list>
     </recent_temporary>
   </component>
@@ -600,12 +694,16 @@
       <workItem from="1565653806924" duration="13024000" />
       <workItem from="1565746028361" duration="2401000" />
       <workItem from="1565772475190" duration="1304000" />
-      <workItem from="1565878913787" duration="1789000" />
+      <workItem from="1565878913787" duration="2074000" />
+      <workItem from="1566040033216" duration="10364000" />
+      <workItem from="1566088483635" duration="10033000" />
+      <workItem from="1566198363575" duration="6205000" />
+      <workItem from="1566207509788" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217271000" />
+    <option name="totallyTimeSpent" value="244757000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -617,10 +715,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="3" width="1932" height="1044" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49324325" visible="true" weight="0.171123" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49324325" visible="true" weight="0.17860962" />
       <window_info id="Structure" order="1" sideWeight="0.49417636" weight="0.2513369" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5067568" side_tool="true" weight="0.1631016" />
@@ -630,14 +727,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946523" weight="0.32993197" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.38342246" weight="0.24036281" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.41283423" weight="0.292517" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.41229945" weight="0.20294784" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.32879817" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.45309168" weight="0.32879817" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.32879817" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.47438633" weight="0.32879817" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5871658" side_tool="true" weight="0.3020362" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.58770055" side_tool="true" visible="true" weight="0.20204313" />
       <window_info anchor="bottom" id="Problems" order="11" weight="0.32993197" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -983,6 +1080,42 @@
           <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent4.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent4.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent4.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent5.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent5.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_004.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
           <line>28</line>
@@ -1013,144 +1146,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="33" selection-start-line="28" selection-start-column="7" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="47" column="5" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/pinduoduo2/Pinduoduo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zijietiaodongmianshi/Zijietiaozong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mode/Mode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0221.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0005.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0139.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/zijietiaodong/ZiJieTiaoDong1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="14" column="33" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="37" lean-forward="true" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="9" selection-start-line="5" selection-start-column="4" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testtest/testHashmap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Java/JDK/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1830">
@@ -1419,11 +1414,170 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/dynamicprogramming/Leetcode_0873.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="857">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="648">
+          <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="9" selection-start-line="5" selection-start-column="4" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/zjitiaodong/ZiJieTiaoDong5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="38" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
+          <folding>
+            <element signature="e#3504#3505#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+            <element signature="e#21068#21069#0" expanded="true" />
+            <element signature="e#21142#21143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/JDK/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="772" column="71" selection-start-line="772" selection-end-line="773" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/tencent/Tencent1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="38" column="28" selection-start-line="27" selection-start-column="12" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="36" column="9" selection-start-line="17" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetecode/Leetecode_0105.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtest/TestRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/chengxuyuandaimamianshi/Zuo_001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiuzhao2019/interviewofmeituan/MediumOfDoubleArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1188">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
         </state>
       </provider>
     </entry>
