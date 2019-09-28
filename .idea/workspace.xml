@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/all/Leetcode_0330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/all/Leetcode_0392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/all/Leetcode_0435.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/all/Leetcode_0321.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/all/Leetcode_0321.java" afterDir="false" />
     </list>
     <ignored path="suanfa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +46,43 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/all/Leetcode_0392.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="45" column="34" selection-start-line="35" selection-start-column="8" selection-end-line="53" selection-end-column="30" />
+            <state relative-caret-position="233">
+              <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/all/Leetcode_0435.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="165" column="17" lean-forward="true" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6399#6400#0" expanded="true" />
+                <element signature="e#6437#6438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/midmid/sortsort/Eight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/midmid/sortsort/Interval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -81,6 +111,7 @@
     <findStrings>
       <find>calendar</find>
       <find>getinstance</find>
+      <find>midmid.sortsort.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,8 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/bishi2019/alibaba/PrintDemo3.java" />
-        <option value="$PROJECT_DIR$/src/bishi2019/alibaba/CreateConditionFactory.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/alibaba/ThreadHelperCreateFactory.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/alibaba/ThreadHelper.java" />
         <option value="$PROJECT_DIR$/src/bishi2019/alibaba/PrintDemo2.java" />
@@ -140,6 +169,8 @@
         <option value="$PROJECT_DIR$/src/leetcode/all/Leetcode_0321.java" />
         <option value="$PROJECT_DIR$/src/leetcode/all/Leetcode_0330.java" />
         <option value="$PROJECT_DIR$/src/leetcode/all/Leetcode_0392.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/all/Leetcode_435.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/all/Leetcode_0435.java" />
       </list>
     </option>
   </component>
@@ -205,8 +236,15 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="all" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode_0392" type="1a9f42e2:ClassTreeNode" />
+              <item name="midmid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="midmid" type="462c0819:PsiDirectoryNode" />
+              <item name="sortsort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,6 +256,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -651,12 +690,12 @@
       <workItem from="1568550204204" duration="5954000" />
       <workItem from="1568805766513" duration="693000" />
       <workItem from="1569328282104" duration="378000" />
-      <workItem from="1569499255792" duration="11290000" />
+      <workItem from="1569499255792" duration="16943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="328579000" />
+    <option name="totallyTimeSpent" value="334232000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -687,7 +726,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.3280363" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.45309168" weight="0.32698768" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4978678" weight="0.3280363" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.47272727" weight="0.32698768" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.47272727" visible="true" weight="0.32698768" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.6181818" side_tool="true" weight="0.23950057" />
       <window_info anchor="bottom" id="Problems" order="11" weight="0.32993197" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -1169,21 +1208,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/bytebalance/ByteBlance1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="44" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/ali0830/ByteBlance3.java" />
-    <entry file="file://$PROJECT_DIR$/src/bishi2019/ali0830/ByteBlance1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bishi2019/ali0830/ByteBlance2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1836">
@@ -1548,8 +1572,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/all/Leetcode_0392.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="45" column="34" selection-start-line="35" selection-start-column="8" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="233">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/midmid/sortsort/Eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/midmid/sortsort/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/all/Leetcode_0435.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="165" column="17" lean-forward="true" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6399#6400#0" expanded="true" />
+            <element signature="e#6437#6438#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
