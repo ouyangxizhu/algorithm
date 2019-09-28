@@ -34,6 +34,7 @@ public class Leetcode_0321 {
 
     }
 
+
     //比较哪个大
     private int[] compareMaxNum(int[] num1, int[] num2) {
         for (int i = 0; i < num1.length; i++) {
@@ -93,7 +94,7 @@ public class Leetcode_0321 {
     }
 
     //找到由数组的k个数组成的最大的数组
-    private int[] maxSubNum(int[] nums, int k) {
+    private int[] maxSubNum1(int[] nums, int k) {
 
         int[] res = new int[k];
         if (k == 0) {
@@ -116,6 +117,36 @@ public class Leetcode_0321 {
         }
         return res;
     }
+    //这个比较快
+    public int[] maxSubNum(int[] nums, int k){
+        int[] res = new int[k];
+        int l = 0, r = nums.length - k;
+        for(int i = 0 ; i < k ; i ++){
+            int[] max = getMaxNum(nums, l, r);
+            res[i] = max[0];
+            l = max[1] + 1;
+            r = r + 1;
+        }
+        return res;
+    }
+    public int[] getMaxNum(int[] nums, int l, int r){
+        int[] res = new int[2];
+        int k = l;
+        int max = -1;
+        while(k <= r){
+            if(nums[k] > max){
+                max = nums[k];
+                res[0] = max;
+                res[1] = k;
+                if(max == 9){
+                    return res;
+                }
+            }
+            k ++;
+        }
+        return res;
+    }
+
 
     public static void main(String[] args) {
         int[] nums1 = new int[]{2,5,6,4,4,0};
