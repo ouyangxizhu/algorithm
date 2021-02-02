@@ -21,7 +21,6 @@ target/
 .bin/
 /bin/
 *.ipr
-*.iml
 *.iws
 
 #temp file
