@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/IntArrUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance/NC140.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytedance/NC140.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -262,13 +260,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZhaoHang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiuzhao2019.zhaohang.ZhaoHang" />
+    <configuration name="Quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paixu.Quick" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qiuzhao2019.zhaohang.*" />
+          <option name="PATTERN" value="paixu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,8 +274,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZhaoHang1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiuzhao2019.zhaohang.ZhaoHang1" />
+    <configuration name="ZhaoHang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiuzhao2019.zhaohang.ZhaoHang" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -417,19 +415,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ZhaoHang1" />
       <item itemvalue="Application.ZhaoHang" />
       <item itemvalue="Application.Leetcode_0321" />
       <item itemvalue="Application.Leetcode_0738" />
       <item itemvalue="Application.NC140" />
+      <item itemvalue="Application.Quick" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.NC140" />
+        <item itemvalue="Application.Quick" />
         <item itemvalue="Application.Leetcode_0738" />
         <item itemvalue="Application.Leetcode_0321" />
         <item itemvalue="Application.ZhaoHang" />
-        <item itemvalue="Application.ZhaoHang1" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +509,8 @@
       <workItem from="1569499255792" duration="20829000" />
       <workItem from="1570536024705" duration="6043000" />
       <workItem from="1571278616930" duration="1082000" />
-      <workItem from="1612276336587" duration="1440000" />
+      <workItem from="1612276336587" duration="2012000" />
+      <workItem from="1612278411594" duration="3563000" />
     </task>
     <servers />
   </component>
@@ -540,6 +539,52 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612278302403">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.949@0.23.1680.949" timestamp="1612278302403" />
+    <state x="454" y="192" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1612278082219">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="454" y="192" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.949@0.23.1680.949" timestamp="1612278082219" />
+    <state width="1638" height="173" key="GridCell.Tab.0.bottom" timestamp="1612281994202">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="173" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1612281994202" />
+    <state width="1638" height="173" key="GridCell.Tab.0.center" timestamp="1612281994201">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="173" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1612281994201" />
+    <state width="1638" height="173" key="GridCell.Tab.0.left" timestamp="1612281994201">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="173" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1612281994201" />
+    <state width="1638" height="173" key="GridCell.Tab.0.right" timestamp="1612281994201">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="173" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1612281994201" />
+    <state width="1638" height="261" key="GridCell.Tab.1.bottom" timestamp="1612281981574">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1612281981574" />
+    <state width="1638" height="261" key="GridCell.Tab.1.center" timestamp="1612281981573">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1612281981573" />
+    <state width="1638" height="261" key="GridCell.Tab.1.left" timestamp="1612281981572">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1612281981572" />
+    <state width="1638" height="261" key="GridCell.Tab.1.right" timestamp="1612281981573">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1612281981573" />
+    <state x="328" y="78" key="SettingsEditor" timestamp="1612278384739">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="328" y="78" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1612278384739" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -863,6 +908,16 @@
           <line>6</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bytedance/NC140.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bytedance/NC140.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
           <line>28</line>
@@ -890,96 +945,5 @@
         <breakpoint suspend="THREAD" type="java-line" />
       </breakpoints-defaults>
     </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>suanfa</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
