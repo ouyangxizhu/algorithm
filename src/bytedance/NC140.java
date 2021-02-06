@@ -54,17 +54,23 @@ public class NC140 {
     public int partition(int[] arr, int left, int right) {
         int pivot = (left + right)/2;
         int value = arr[pivot];
-        IntArrUtil.swap(arr, pivot, right);
+        swap(arr, pivot, right);
         int partition = left - 1;
         for (int i = left; i <= right; i++) {
             if (arr[i] <= value) {
                 partition++;
                 if (i > partition) {
-                    IntArrUtil.swap(arr, partition, i);
+                    swap(arr, partition, i);
                 }
             }
         }
         return partition;
+    }
+
+    public static void swap(int[] a, int left, int right) {
+        int tmp = a[left];
+        a[left] = a[right];
+        a[right] = tmp;
     }
 
     public static void main(String[] args) {

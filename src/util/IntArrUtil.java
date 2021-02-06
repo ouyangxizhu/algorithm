@@ -11,6 +11,9 @@ public class IntArrUtil {
     }
 
     public static void swap(int[] a, int left, int right) {
+        if (left == right) {
+            return;
+        }
         int tmp = a[left];
         a[left] = a[right];
         a[right] = tmp;
