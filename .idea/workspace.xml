@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bytedance/NC19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytedance/NC19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +115,7 @@
       <recent name="D:\Programme\algorithm\src\bishi2019\ali0830" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NC15">
+  <component name="RunManager" selected="Application.NC32">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -252,36 +254,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NC27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bytedance.NC27" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bytedance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NC32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bytedance.NC32" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bytedance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NC61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bytedance.NC61" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bytedance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NC68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bytedance.NC68" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bytedance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NC88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bytedance.NC88" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -421,19 +423,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.NC88" />
-      <item itemvalue="Application.NC68" />
       <item itemvalue="Application.NC61" />
       <item itemvalue="Application.NC19" />
       <item itemvalue="Application.NC15" />
+      <item itemvalue="Application.NC27" />
+      <item itemvalue="Application.NC32" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NC32" />
+        <item itemvalue="Application.NC27" />
         <item itemvalue="Application.NC15" />
         <item itemvalue="Application.NC19" />
         <item itemvalue="Application.NC61" />
-        <item itemvalue="Application.NC68" />
-        <item itemvalue="Application.NC88" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +519,7 @@
       <workItem from="1571278616930" duration="1082000" />
       <workItem from="1612276336587" duration="2012000" />
       <workItem from="1612278411594" duration="3895000" />
-      <workItem from="1612579598281" duration="19170000" />
+      <workItem from="1612579598281" duration="28268000" />
     </task>
     <servers />
   </component>
@@ -564,53 +566,62 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="603" y="208" key="#xdebugger.evaluate/0.23.1680.956@0.23.1680.956" timestamp="1612590285735" />
-    <state width="1638" height="158" key="GridCell.Tab.0.bottom" timestamp="1612616229660">
+    <state width="1638" height="158" key="GridCell.Tab.0.bottom" timestamp="1612712318098">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
-    <state width="1638" height="158" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1612616229660" />
-    <state width="1638" height="158" key="GridCell.Tab.0.center" timestamp="1612616229659">
+    <state width="1638" height="158" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1612622469110" />
+    <state width="1638" height="158" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1612712318098" />
+    <state width="1638" height="158" key="GridCell.Tab.0.center" timestamp="1612712318097">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
-    <state width="1638" height="158" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1612616229659" />
-    <state width="1638" height="158" key="GridCell.Tab.0.left" timestamp="1612616229658">
+    <state width="1638" height="158" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1612622469109" />
+    <state width="1638" height="158" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1612712318097" />
+    <state width="1638" height="158" key="GridCell.Tab.0.left" timestamp="1612712318097">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1612317134805" />
-    <state width="1638" height="158" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1612616229658" />
-    <state width="1638" height="158" key="GridCell.Tab.0.right" timestamp="1612616229659">
+    <state width="1638" height="158" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1612622469109" />
+    <state width="1638" height="158" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1612712318097" />
+    <state width="1638" height="158" key="GridCell.Tab.0.right" timestamp="1612712318097">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
-    <state width="1638" height="158" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1612616229659" />
-    <state width="1638" height="158" key="GridCell.Tab.1.bottom" timestamp="1612616229661">
+    <state width="1638" height="158" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1612622469110" />
+    <state width="1638" height="158" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1612712318097" />
+    <state width="1638" height="158" key="GridCell.Tab.1.bottom" timestamp="1612712318195">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
-    <state width="1638" height="158" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1612616229661" />
-    <state width="1638" height="158" key="GridCell.Tab.1.center" timestamp="1612616229660">
+    <state width="1638" height="158" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1612622469111" />
+    <state width="1638" height="158" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1612712318195" />
+    <state width="1638" height="158" key="GridCell.Tab.1.center" timestamp="1612712318194">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
-    <state width="1638" height="158" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1612616229660" />
-    <state width="1638" height="158" key="GridCell.Tab.1.left" timestamp="1612616229660">
+    <state width="1638" height="158" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1612622469111" />
+    <state width="1638" height="158" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1612712318194" />
+    <state width="1638" height="158" key="GridCell.Tab.1.left" timestamp="1612712318194">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
-    <state width="1638" height="158" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1612616229660" />
-    <state width="1638" height="158" key="GridCell.Tab.1.right" timestamp="1612616229660">
+    <state width="1638" height="158" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1612622469110" />
+    <state width="1638" height="158" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1612712318194" />
+    <state width="1638" height="158" key="GridCell.Tab.1.right" timestamp="1612712318194">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
-    <state width="1638" height="158" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1612616229660" />
+    <state width="1638" height="158" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1612622469111" />
+    <state width="1638" height="158" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1612712318194" />
     <state x="328" y="78" key="SettingsEditor" timestamp="1612278384739">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="328" y="78" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1612278384739" />
-    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1612581789873">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state x="505" y="231" width="670" height="675" key="search.everywhere.popup" timestamp="1612662785682">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
+    <state x="505" y="231" width="670" height="675" key="search.everywhere.popup/0.23.1680.954@0.23.1680.954" timestamp="1612662785682" />
     <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1612581789873" />
   </component>
   <component name="XDebuggerManager">
@@ -961,9 +972,9 @@
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bytedance/NC15.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="109" />
+          <url>file://$PROJECT_DIR$/src/bytedance/NC32.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
