@@ -54,24 +54,48 @@ public class NC70 {
             return head;
         }
         ListNode slow = head;
-        ListNode fast = head;
+        ListNode fast = head.next;
         while (fast!= null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        slow.next = null;
         ListNode next = slow.next;
-
-
-
+        slow.next = null;
+        ListNode left = sortInList(head);
+        ListNode right = sortInList(next);
+        return merge(left, right);
     }
 
-    private ListNode merge(ListNode head, ListNode headTail, ListNode next) {
-        if (next == null) {
-            return headTail;
+    private ListNode merge(ListNode left, ListNode right) {
+        ListNode newHead = new ListNode(-1);
+        ListNode resultPre  = newHead;
+        while (left != null && right != null) {
+            if (left.val < right.val) {
+                newHead.next = left;
+                left = left.next;
+            } else {
+                newHead.next = right;
+                right = right.next;
+            }
+            newHead = newHead.next;
         }
-
-
+        newHead.next = left == null ? right : left;
+        return resultPre.next;
+//        if (left == null) {
+//            return right;
+//        }
+//        if (right == null) {
+//            return left;
+//        }
+//        ListNode head;
+//        if (left.val < right.val) {
+//            head = left;
+//            head.next = merge(left.next, right);
+//        } else {
+//            head = right;
+//            head.next = merge(left, right.next);
+//        }
+//        return head;
     }
 
     public static void main(String[] args) {

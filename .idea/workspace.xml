@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ListNodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC90.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance/NC70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytedance/NC70.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +47,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>calendar</find>
-      <find>getinstance</find>
-      <find>midmid.sortsort.</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,7 +107,7 @@
       <recent name="D:\Programme\algorithm\src\bishi2019\ali0830" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NC70">
+  <component name="RunManager" selected="Application.NC75">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -222,20 +218,6 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NC15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bytedance.NC15" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bytedance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NC27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bytedance.NC27" />
       <module name="algorithm" />
@@ -266,6 +248,20 @@
     </configuration>
     <configuration name="NC70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bytedance.NC70" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bytedance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NC75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bytedance.NC75" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -419,19 +415,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.NC15" />
       <item itemvalue="Application.NC27" />
       <item itemvalue="Application.NC32" />
       <item itemvalue="Application.NC91" />
       <item itemvalue="Application.NC70" />
+      <item itemvalue="Application.NC75" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NC75" />
         <item itemvalue="Application.NC70" />
         <item itemvalue="Application.NC91" />
         <item itemvalue="Application.NC32" />
         <item itemvalue="Application.NC27" />
-        <item itemvalue="Application.NC15" />
       </list>
     </recent_temporary>
   </component>
@@ -520,7 +516,7 @@
       <workItem from="1614006542941" duration="5089000" />
       <workItem from="1614090551924" duration="3309000" />
       <workItem from="1614150144056" duration="110000" />
-      <workItem from="1614174229362" duration="5001000" />
+      <workItem from="1614174229362" duration="12362000" />
     </task>
     <servers />
   </component>
@@ -555,10 +551,11 @@
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.949@0.23.1680.949" timestamp="1612278302403" />
-    <state x="653" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1612615389463">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state x="653" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1614513606994">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="653" y="220" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1612615389463" />
+    <state x="653" y="221" key="#com.intellij.ide.util.MemberChooser/0.23.1680.961@0.23.1680.961" timestamp="1614513606994" />
     <state x="454" y="192" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1612278082219">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -567,44 +564,48 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="603" y="208" key="#xdebugger.evaluate/0.23.1680.956@0.23.1680.956" timestamp="1612590285735" />
-    <state width="1638" height="300" key="GridCell.Tab.0.bottom" timestamp="1614180932660">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1638" height="300" key="GridCell.Tab.0.bottom" timestamp="1614516393486">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
-    <state width="1638" height="300" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1614180932660" />
+    <state width="1638" height="172" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1614181580743" />
     <state width="1638" height="158" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1612622469110" />
     <state width="1638" height="158" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1612766977711" />
     <state width="1638" height="173" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1613959746883" />
     <state width="1638" height="172" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1614043768865" />
-    <state width="1638" height="300" key="GridCell.Tab.0.center" timestamp="1614180932659">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1638" height="300" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1614516393486" />
+    <state width="1638" height="300" key="GridCell.Tab.0.center" timestamp="1614516393486">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
-    <state width="1638" height="300" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1614180932659" />
+    <state width="1638" height="172" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1614181580742" />
     <state width="1638" height="158" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1612622469109" />
     <state width="1638" height="158" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1612766977710" />
     <state width="1638" height="173" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1613959746882" />
     <state width="1638" height="172" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1614043768864" />
-    <state width="1638" height="300" key="GridCell.Tab.0.left" timestamp="1614180932659">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1638" height="300" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1614516393486" />
+    <state width="1638" height="300" key="GridCell.Tab.0.left" timestamp="1614516393485">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1612317134805" />
-    <state width="1638" height="300" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1614180932659" />
+    <state width="1638" height="172" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1614181580742" />
     <state width="1638" height="158" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1612622469109" />
     <state width="1638" height="158" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1612766977710" />
     <state width="1638" height="173" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1613959746882" />
     <state width="1638" height="172" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1614043768864" />
-    <state width="1638" height="300" key="GridCell.Tab.0.right" timestamp="1614180932660">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1638" height="300" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1614516393485" />
+    <state width="1638" height="300" key="GridCell.Tab.0.right" timestamp="1614516393486">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
-    <state width="1638" height="300" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1614180932660" />
+    <state width="1638" height="172" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1614181580743" />
     <state width="1638" height="158" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1612622469110" />
     <state width="1638" height="158" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1612766977711" />
     <state width="1638" height="173" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1613959746883" />
     <state width="1638" height="172" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1614043768864" />
-    <state width="1638" height="300" key="GridCell.Tab.1.bottom" timestamp="1614180932662">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1638" height="300" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1614516393486" />
+    <state width="1638" height="300" key="GridCell.Tab.1.bottom" timestamp="1614516393637">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
     <state width="1638" height="300" key="GridCell.Tab.1.bottom/0.23.1680.952@0.23.1680.952" timestamp="1614180932662" />
@@ -612,8 +613,9 @@
     <state width="1638" height="158" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1612766977712" />
     <state width="1638" height="158" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1613959746876" />
     <state width="1638" height="157" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1614009420867" />
-    <state width="1638" height="300" key="GridCell.Tab.1.center" timestamp="1614180932661">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1638" height="300" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1614516393637" />
+    <state width="1638" height="300" key="GridCell.Tab.1.center" timestamp="1614516393636">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
     <state width="1638" height="300" key="GridCell.Tab.1.center/0.23.1680.952@0.23.1680.952" timestamp="1614180932661" />
@@ -621,8 +623,9 @@
     <state width="1638" height="158" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1612766977712" />
     <state width="1638" height="158" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1613959746876" />
     <state width="1638" height="157" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1614009420866" />
-    <state width="1638" height="300" key="GridCell.Tab.1.left" timestamp="1614180932660">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1638" height="300" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1614516393636" />
+    <state width="1638" height="300" key="GridCell.Tab.1.left" timestamp="1614516393635">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
     <state width="1638" height="300" key="GridCell.Tab.1.left/0.23.1680.952@0.23.1680.952" timestamp="1614180932660" />
@@ -630,8 +633,9 @@
     <state width="1638" height="158" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1612766977711" />
     <state width="1638" height="158" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1613959746875" />
     <state width="1638" height="157" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1614009420866" />
-    <state width="1638" height="300" key="GridCell.Tab.1.right" timestamp="1614180932661">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1638" height="300" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1614516393635" />
+    <state width="1638" height="300" key="GridCell.Tab.1.right" timestamp="1614516393636">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
     <state width="1638" height="300" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1614180932661" />
@@ -639,6 +643,7 @@
     <state width="1638" height="158" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1612766977712" />
     <state width="1638" height="158" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1613959746876" />
     <state width="1638" height="157" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1614009420867" />
+    <state width="1638" height="300" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1614516393636" />
     <state x="328" y="78" key="SettingsEditor" timestamp="1612278384739">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -1014,6 +1019,11 @@
           <url>file://$PROJECT_DIR$/src/bytedance/NC70.java</url>
           <line>16</line>
           <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bytedance/NC75.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
