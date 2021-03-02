@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7351e19d-73a7-4ba4-876b-3a66cedba91f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytedance/NC90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bytedance/NC8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bytedance/NC70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytedance/NC70.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +102,7 @@
       <recent name="D:\Programme\algorithm\src\bishi2019\ali0830" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NC75">
+  <component name="RunManager" selected="Application.NC21">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -218,8 +213,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NC27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bytedance.NC27" />
+    <configuration name="NC21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bytedance.NC21" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -415,19 +410,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.NC27" />
       <item itemvalue="Application.NC32" />
       <item itemvalue="Application.NC91" />
       <item itemvalue="Application.NC70" />
       <item itemvalue="Application.NC75" />
+      <item itemvalue="Application.NC21" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NC21" />
         <item itemvalue="Application.NC75" />
         <item itemvalue="Application.NC70" />
         <item itemvalue="Application.NC91" />
         <item itemvalue="Application.NC32" />
-        <item itemvalue="Application.NC27" />
       </list>
     </recent_temporary>
   </component>
@@ -516,7 +511,9 @@
       <workItem from="1614006542941" duration="5089000" />
       <workItem from="1614090551924" duration="3309000" />
       <workItem from="1614150144056" duration="110000" />
-      <workItem from="1614174229362" duration="12362000" />
+      <workItem from="1614174229362" duration="15922000" />
+      <workItem from="1614582289545" duration="166000" />
+      <workItem from="1614605906105" duration="3091000" />
     </task>
     <servers />
   </component>
@@ -564,86 +561,86 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="603" y="208" key="#xdebugger.evaluate/0.23.1680.956@0.23.1680.956" timestamp="1612590285735" />
-    <state width="1638" height="300" key="GridCell.Tab.0.bottom" timestamp="1614516393486">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="172" key="GridCell.Tab.0.bottom" timestamp="1614680524095">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
     <state width="1638" height="172" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1614181580743" />
     <state width="1638" height="158" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1612622469110" />
     <state width="1638" height="158" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1612766977711" />
     <state width="1638" height="173" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1613959746883" />
-    <state width="1638" height="172" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1614043768865" />
-    <state width="1638" height="300" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1614516393486" />
-    <state width="1638" height="300" key="GridCell.Tab.0.center" timestamp="1614516393486">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="172" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1614680524095" />
+    <state width="1638" height="300" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1614608126751" />
+    <state width="1638" height="172" key="GridCell.Tab.0.center" timestamp="1614680524094">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
     <state width="1638" height="172" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1614181580742" />
     <state width="1638" height="158" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1612622469109" />
     <state width="1638" height="158" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1612766977710" />
     <state width="1638" height="173" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1613959746882" />
-    <state width="1638" height="172" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1614043768864" />
-    <state width="1638" height="300" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1614516393486" />
-    <state width="1638" height="300" key="GridCell.Tab.0.left" timestamp="1614516393485">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="172" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1614680524094" />
+    <state width="1638" height="300" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1614608126751" />
+    <state width="1638" height="172" key="GridCell.Tab.0.left" timestamp="1614680524094">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1612317134805" />
     <state width="1638" height="172" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1614181580742" />
     <state width="1638" height="158" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1612622469109" />
     <state width="1638" height="158" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1612766977710" />
     <state width="1638" height="173" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1613959746882" />
-    <state width="1638" height="172" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1614043768864" />
-    <state width="1638" height="300" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1614516393485" />
-    <state width="1638" height="300" key="GridCell.Tab.0.right" timestamp="1614516393486">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="172" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1614680524094" />
+    <state width="1638" height="300" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1614608126750" />
+    <state width="1638" height="172" key="GridCell.Tab.0.right" timestamp="1614680524094">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1612317134806" />
     <state width="1638" height="172" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1614181580743" />
     <state width="1638" height="158" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1612622469110" />
     <state width="1638" height="158" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1612766977711" />
     <state width="1638" height="173" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1613959746883" />
-    <state width="1638" height="172" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1614043768864" />
-    <state width="1638" height="300" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1614516393486" />
-    <state width="1638" height="300" key="GridCell.Tab.1.bottom" timestamp="1614516393637">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="172" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1614680524094" />
+    <state width="1638" height="300" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1614608126751" />
+    <state width="1638" height="300" key="GridCell.Tab.1.bottom" timestamp="1614680524089">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
     <state width="1638" height="300" key="GridCell.Tab.1.bottom/0.23.1680.952@0.23.1680.952" timestamp="1614180932662" />
     <state width="1638" height="158" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1612622469111" />
     <state width="1638" height="158" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1612766977712" />
     <state width="1638" height="158" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1613959746876" />
-    <state width="1638" height="157" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1614009420867" />
-    <state width="1638" height="300" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1614516393637" />
-    <state width="1638" height="300" key="GridCell.Tab.1.center" timestamp="1614516393636">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="300" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1614680524089" />
+    <state width="1638" height="300" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1614608127024" />
+    <state width="1638" height="300" key="GridCell.Tab.1.center" timestamp="1614680524089">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
     <state width="1638" height="300" key="GridCell.Tab.1.center/0.23.1680.952@0.23.1680.952" timestamp="1614180932661" />
     <state width="1638" height="158" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1612622469111" />
     <state width="1638" height="158" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1612766977712" />
     <state width="1638" height="158" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1613959746876" />
-    <state width="1638" height="157" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1614009420866" />
-    <state width="1638" height="300" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1614516393636" />
-    <state width="1638" height="300" key="GridCell.Tab.1.left" timestamp="1614516393635">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="300" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1614680524089" />
+    <state width="1638" height="300" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1614608127024" />
+    <state width="1638" height="300" key="GridCell.Tab.1.left" timestamp="1614680524089">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
     <state width="1638" height="300" key="GridCell.Tab.1.left/0.23.1680.952@0.23.1680.952" timestamp="1614180932660" />
     <state width="1638" height="158" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1612622469110" />
     <state width="1638" height="158" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1612766977711" />
     <state width="1638" height="158" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1613959746875" />
-    <state width="1638" height="157" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1614009420866" />
-    <state width="1638" height="300" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1614516393635" />
-    <state width="1638" height="300" key="GridCell.Tab.1.right" timestamp="1614516393636">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state width="1638" height="300" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1614680524089" />
+    <state width="1638" height="300" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1614608127023" />
+    <state width="1638" height="300" key="GridCell.Tab.1.right" timestamp="1614680524089">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="261" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1612317134807" />
     <state width="1638" height="300" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1614180932661" />
     <state width="1638" height="158" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1612622469111" />
     <state width="1638" height="158" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1612766977712" />
     <state width="1638" height="158" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1613959746876" />
-    <state width="1638" height="157" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1614009420867" />
-    <state width="1638" height="300" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1614516393636" />
+    <state width="1638" height="300" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1614680524089" />
+    <state width="1638" height="300" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1614608127024" />
     <state x="328" y="78" key="SettingsEditor" timestamp="1612278384739">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -1024,6 +1021,21 @@
           <url>file://$PROJECT_DIR$/src/bytedance/NC75.java</url>
           <line>25</line>
           <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bytedance/NC21.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bytedance/NC21.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bytedance/NC21.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/bishi2019/huawei/Huawei3.java</url>
