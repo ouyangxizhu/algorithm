@@ -14,34 +14,6 @@ public class NC91 {
         if (arr == null || arr.length <= 1) {
             return arr;
         }
-        int[] dp = getDp(arr);
-        return generateResult(arr, dp);
-    }
-
-    public int[] getDp(int[] arr) {
-        int[] dp = new int[arr.length];
-        for (int i = 0; i < arr.length; i++) {
-            dp[i] = 1;
-            for (int j = 0; j < i; j++) {
-                if (arr[j] < arr[i]) {
-                    dp[i] = Math.max(dp[i], dp[j] + 1);
-                }
-            }
-        }
-        return dp;
-    }
-
-    /**
-     * retrun the longest increasing subsequence
-     * 最后一个，以arr[i]结尾的最长递增子序列
-     *
-     * @param arr int整型一维数组 the array
-     * @return int整型一维数组
-     */
-    public int[] LIS1(int[] arr) {
-        if (arr == null || arr.length <= 1) {
-            return arr;
-        }
         int[] dp = getDp1(arr);
         return generateResult(arr, dp);
     }
@@ -52,13 +24,15 @@ public class NC91 {
         ends[0] = arr[0];
         dp[0] = 1;
         int right = 0;
-
+        int l = 0;
+        int r = 0;
+        int m = 0;
         for (int i = 1; i < arr.length; i++) {
-            int l = 0;
-            int r = right;
-            while (l <= right) {
-                int m = l + ((r - l) >> 1);
-                if (ends[m] < arr[i]) {
+            l = 0;
+            r = right;
+            while (l <= r) {
+                m = (l + r) / 2;
+                if (arr[i] > ends[m]) {
                     l = m + 1;
                 } else {
                     r = m - 1;
@@ -67,7 +41,6 @@ public class NC91 {
             right = Math.max(right, l);
             ends[l] = arr[i];
             dp[i] = l + 1;
-
         }
         return dp;
     }
